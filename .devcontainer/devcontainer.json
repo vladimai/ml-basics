@@ -14,7 +14,7 @@
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintPath": "/opt/conda/bin/pylint",
-    "python.dataScience.alwaysTrustNotebooks":false,
+    "python.dataScience.alwaysTrustNotebooks":false, # default - true
     "python.showStartPage": false
   },
 }
